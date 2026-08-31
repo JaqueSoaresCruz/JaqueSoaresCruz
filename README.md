@@ -1,6 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Jaqueline Soares</h1>
-<h3 align="center">Apaixonada por analise de dados</h3>
+<h3 align="center">Analista de Dados focada em resolução de problemas e tomada de decisão</h3>
 
+- 🎯 Foco em unir **Experiência do Cliente (CX)** e **Análise de Dados**
 - 🌱 Atualmente eu estou aprendendo **Python e Machine Learning**
 
 - 💬 Me pergunte sobre **Excel, SQL e Power BI**
