@@ -1,20 +1,37 @@
-<h1 align="center">Oi 👋, Eu sou Jaqueline Soares</h1>
-<h3 align="center">Analista de Dados focada em resolução de problemas e tomada de decisão</h3>
+# Oi 👋, Eu sou Jaqueline Soares
 
-- 🎯 Foco em unir **Experiência do Cliente (CX)** e **Análise de Dados**
-- 🌱 Atualmente eu estou aprendendo **Python e Machine Learning**
+### Dados e CX aplicados à resolução de problemas
 
-- 💬 Me pergunte sobre **Excel, SQL e Power BI**
+Tecnóloga em Gestão de TI com experiência na linha de frente de atendimento e visão analítica. Utilizo **Power BI, SQL, Python e Excel** para transformar dados de atendimento em insights e soluções operacionais.
 
-- 📫 Você me encontra **jaquelinesoaresdacruz8@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/jaqueline-soares-da-cruz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jaqueline-soares-da-cruz/" height="30" width="40" /></a>
-</p>
+### 🛠️ Tecnologias e Ferramentas
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+---
+
+### 📌 Sobre mim
+* 🌱 Atualmente aprofundando meus estudos em **Python e Machine Learning**
+* 🎯 Foco em vagas de **Analista de Atendimento/CX Jr, Dados para CX ou Suporte Técnico**
+* 💬 Me pergunte sobre **Análise de Dados, SQL, Power BI e Experiência do Cliente**
+
+---
+
+### 🚀 Projetos em Destaque
+* 📊 **[Nome do Projeto 1](link-do-repositorio)** - Análise de chamados de atendimento / dashboard em Power BI
+* 🐍 **[Nome do Projeto 2](link-do-repositorio)** - Tratamento de dados com Python / SQL
+
+---
+
+### 📫 Entre em contato comigo:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaqueline-soares-da-cruz)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaqueline.dacruz6789@gmail.com)
 
 
 
