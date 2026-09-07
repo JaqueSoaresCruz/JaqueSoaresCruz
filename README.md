@@ -23,7 +23,8 @@ Tecnóloga em Gestão de TI com experiência na linha de frente de atendimento e
 ---
 
 ### 🚀 Projetos em Destaque
-* 📊 **[Análise consumidor.gov]([link-do-repositorio](https://github.com/JaqueSoaresCruz/consumidor-gov-analise))** - Tratamento e análise de dados públicos de reclamações de consumidores utilizando **Python (Pandas)** e **SQL**, com identificação de padrões por setor/empresa e tempo médio de resposta das reclamações.
+* 📊 **[Análise consumidor.gov](https://github.com/JaqueSoaresCruz/consumidor-gov-analise)** -
+Tratamento e análise de dados públicos de reclamações de consumidores utilizando **Python (Pandas)** e **SQL**, com identificação de padrões por setor/empresa e tempo médio de resposta das reclamações.
 `Python` `SQL` `Pandas` `Análise de Dados`
 
 ---
